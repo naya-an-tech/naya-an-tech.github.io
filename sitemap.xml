@@ -1,142 +1,124 @@
-<?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-      <loc>https://naya-an-tech.github.io</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-    
-        <url>
-        <loc>https://naya-an-tech.github.io/study-ga4-demo-page</loc>
-        <lastmod>2024-07-06T16:09:44.626Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/poetry-library-upgrade</loc>
-        <lastmod>2024-07-06T16:09:36.412Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/easy-database-to-model-conversion</loc>
-        <lastmod>2024-07-06T16:09:32.914Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/how-to-get-mac-info-with-command</loc>
-        <lastmod>2024-07-05T06:01:36.339Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/ssh-connection-fail-on-m3-mac</loc>
-        <lastmod>2024-07-02T16:19:56.975Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/use-alembic-to-already-operation-db</loc>
-        <lastmod>2024-06-15T16:21:46.690Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/sveltekit-load-data-optimization</loc>
-        <lastmod>2024-06-15T17:01:38.151Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/gitops-local-setting-with-act</loc>
-        <lastmod>2024-06-12T13:15:37.627Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/es-dsl-tutorial-connection-index</loc>
-        <lastmod>2024-06-09T12:35:05.559Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/setting-ssh-file-permission</loc>
-        <lastmod>2024-06-03T13:59:18.750Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/how-to-set-giscus-to-github-page</loc>
-        <lastmod>2024-05-11T15:39:33.174Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/dependency-code-deploy-automation-with-gpt</loc>
-        <lastmod>2024-05-11T15:39:33.174Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/vscode-not-found-git</loc>
-        <lastmod>2024-05-11T15:39:33.174Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/TIL</loc>
-        <lastmod>2024-05-11T15:39:33.173Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/hello-QWER</loc>
-        <lastmod>2022-09-16T04:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/profile</loc>
-        <lastmod>2022-09-16T04:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/about</loc>
-        <lastmod>2022-09-16T04:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/example</loc>
-        <lastmod>2023-05-01T12:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
-        <url>
-        <loc>https://naya-an-tech.github.io/quick-start</loc>
-        <lastmod>2022-09-15T13:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        </url>
-      
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset
+	xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="https://www.w3.org/1999/xhtml"
+	xmlns:mobile="https://www.google.com/schemas/sitemap-mobile/1.0"
+	xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+	xmlns:image="https://www.google.com/schemas/sitemap-image/1.0"
+	xmlns:video="https://www.google.com/schemas/sitemap-video/1.1"
+>
+	<url>
+		<loc>https://naya-an-tech.github.io/</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+	<url>
+		<loc>https://naya-an-tech.github.io/TIL</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/about</loc>
+		<lastmod>2022-09-16</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/dependency-code-deploy-automation-with-gpt</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/easy-database-to-model-conversion</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/es-dsl-tutorial-connection-index</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/gitops-local-setting-with-act</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/hello-QWER</loc>
+		<lastmod>2022-09-16</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/how-to-get-mac-info-with-command</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/how-to-set-giscus-to-github-page</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/poetry-library-upgrade</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/profile</loc>
+		<lastmod>2022-09-16</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/quick-start</loc>
+		<lastmod>2022-09-15</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/setting-ssh-file-permission</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/ssh-connection-fail-on-m3-mac</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/study-ga4-demo-page</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/sveltekit-load-data-optimization</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/use-alembic-to-already-operation-db</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://naya-an-tech.github.io/vscode-not-found-git</loc>
+		<lastmod>2026-07-08</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
 </urlset>
